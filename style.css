@@ -1,5 +1,6 @@
 body{
     background-color: rgb(62, 178, 224);
+    margin: 0px;
 }
 form{
     padding:30px;
@@ -21,4 +22,9 @@ form h2{
 }
 form .log{
     width: 100%
+}
+
+nav{
+    height: 40px;
+    background-color: white;
 }
