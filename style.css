@@ -28,3 +28,7 @@ nav{
     height: 40px;
     background-color: white;
 }
+.nv{
+    float: right;
+    display: flex;
+}
